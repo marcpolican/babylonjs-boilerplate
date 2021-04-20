@@ -41,7 +41,7 @@ var material = new GridMaterial("grid", scene);
 var sphere = Mesh.CreateSphere("sphere1", 16, 2, scene);
 
 // Move the sphere upward 1/2 its height
-sphere.position.y = 2;
+sphere.position.y = 5;
 
 // Affect a material
 sphere.material = material;
