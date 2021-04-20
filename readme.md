@@ -8,5 +8,3 @@ This includes:
 
 Followed this documentation:
 https://doc.babylonjs.com/features/es6_support
-
-Modify readme

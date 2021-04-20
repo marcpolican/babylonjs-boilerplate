@@ -56,5 +56,3 @@ ground.material = material;
 engine.runRenderLoop(() => {
     scene.render();
 });
-
-// This code is not actually being called lol
